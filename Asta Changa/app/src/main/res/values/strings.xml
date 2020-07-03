@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ashta Changa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules_button">Rules</string>
+    <string name="toss_button_name">TOSS</string>
+    <string name="add_player_button">Add Player</string>
+    <string name="rules_header">Rules</string>
+</resources>
